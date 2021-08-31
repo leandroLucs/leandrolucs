@@ -1,7 +1,7 @@
 ## Olá! Eu sou Leandro Lucas dos Santos👋
 
 - 🔭 Atualmente estou trabalhando no desenvolvimento web FullStack
-- 🌱 Estudando Javascript, React e Node
+- 🌱 Estudando Javascript e React
 - 📫 Contate-me pelo email: contato@airydev.com.br
 - 😄 Pronomes: ele/dele
 
