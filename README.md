@@ -6,9 +6,9 @@
 - 😄 Pronomes: ele/dele
 
 <div>
-  <a href="https://github.com/leandroLucs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leandrolucs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrolucs&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://airydev.com.br">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leandrolucs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrolucs&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 ##
